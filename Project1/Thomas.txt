@@ -1,0 +1,99 @@
+/////////////////////////////////////////
+//////////////   Part 1:    /////////////
+/////////////////////////////////////////
+
+thomas% mpicxx -o tworings TwoRings.cpp
+thomas% mpirun -q -np 24 tworings
+Baton at: 0
+Baton sent to: 2
+Baton at: 2
+Baton sent to: 4
+Baton at: 1
+Baton sent to: 23
+Baton at: 4
+Baton sent to: 6
+Baton at: 6
+Baton sent to: 8
+Baton at: 8
+Baton sent to: 10
+Baton at: 10
+Baton sent to: 12
+Baton at: 23
+Baton sent to: 21
+Baton at: 12
+Baton sent to: 14
+Baton at: 21
+Baton sent to: 19
+Baton at: 14
+Baton sent to: 16
+Baton at: 16
+Baton sent to: 18
+Baton at: 18
+Baton sent to: 20
+Baton at: 19
+Baton sent to: 17
+Baton at: 20
+Baton sent to: 22
+Baton at: 17
+Baton sent to: 15
+Baton at: 22
+Baton sent to: 0
+Baton back at: 0
+Sent list: 0 2 4 6 8 10 12 14 16 18 20 22
+Baton at: 13
+Baton sent to: 11
+Baton at: 15
+Baton sent to: 13
+Baton at: 11
+Baton sent to: 9
+Baton at: 7
+Baton sent to: 5
+Baton at: 9
+Baton sent to: 7
+Baton at: 5
+Baton sent to: 3
+Baton at: 3
+Baton sent to: 1
+Baton back at: 1
+Sent list: 1 23 21 19 17 15 13 11 9 7 5 3
+
+/////////////////////////	////////////////
+//////////////   Part 2:    /////////////
+/////////////////////////////////////////
+thomas% mpirun -q -np 24 whackanorc
+Max: 49
+Min: 0
+Average: 24.4841
+
+/////////////////////////////////////////
+//////////////   Part 3:    /////////////
+/////////////////////////////////////////
+thomas% mpicxx -o inyoureye InYourEYE.cpp
+thomas% mpirun -q -np 24 inyoureye
+a: 3817
+b: 3744
+c: 3864
+d: 3813
+e: 3913
+f: 3839
+g: 3894
+h: 3952
+i: 3851
+j: 3837
+k: 3832
+l: 3785
+m: 3804
+n: 3897
+o: 3822
+p: 3777
+q: 3898
+r: 3883
+s: 3919
+t: 3811
+u: 3843
+v: 3926
+w: 3976
+x: 3704
+y: 3822
+z: 3777
+Total Letters: 100000
