@@ -1,0 +1,25 @@
+project (Calculator) {
+    exename = Calculator
+
+    Source_Files {
+        Add_Command.cpp
+        BinaryOperation_Command.cpp
+        Divide_Command.cpp
+        Modular_Command.cpp
+        Multiply_Command.cpp
+        Number_Command.cpp
+        Parenthesis_Command.cpp
+        Stack_Command_Factory.cpp
+        Subtract_Command.cpp
+        Driver.cpp
+    }
+
+    Header_Files {
+        Command.h
+        Command_Factory.h
+    }
+
+    specific (make) {
+        compile_flags += -std=c++11
+    }
+}
