@@ -1,0 +1,699 @@
+Finding a seed...
+Seed found. Planting seed 2000...
+Tree Rooted. A sprout has begun. See?
+One Child: 2000
+Tree is growing. Adding a 1383 to the tree.
+Tree may have grew some more! See below.
+Two Child: 1383 2000
+One Child: 1383
+One Child: 2000
+
+
+Tree is growing. Adding a 886 to the tree.
+Expand
+Tree may have grew some more! See below.
+Two Child: 1383 886
+One Child: 1383
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+Tree is growing. Adding a 915 to the tree.
+Expand
+ Adj
+Tree may have grew some more! See below.
+Two Child: 915 886
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+Tree is growing. Adding a 1793 to the tree.
+Expand
+ Adj
+Tree may have grew some more! See below.
+Two Child: 915 1793
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+Three Child: 2000 886 1793
+One Child: 2000
+One Child: 886
+One Child: 1793
+
+
+
+Tree is growing. Adding a 1386 to the tree.
+Expand
+Expand
+Tree may have grew some more! See below.
+Two Child: 915 886
+One Child: 915
+Two Child: 1386 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is growing. Adding a 492 to the tree.
+Expand
+ Adj
+ Adj
+Tree may have grew some more! See below.
+Two Child: 492 886
+One Child: 492
+Two Child: 1386 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is growing. Adding a 1421 to the tree.
+Expand
+ Adj
+ Adj
+Tree may have grew some more! See below.
+Two Child: 492 1421
+One Child: 492
+Two Child: 1386 1421
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Three Child: 2000 886 1421
+One Child: 2000
+One Child: 886
+One Child: 1421
+
+
+
+
+Tree is growing. Adding a 362 to the tree.
+Expand
+Expand
+ Adj
+Tree may have grew some more! See below.
+Two Child: 915 1421
+Two Child: 362 915
+Two Child: 492 362
+One Child: 492
+One Child: 362
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Two Child: 1386 1421
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Three Child: 2000 886 1421
+One Child: 2000
+One Child: 886
+One Child: 1421
+
+
+
+
+Tree is growing. Adding a 690 to the tree.
+Expand
+ Adj
+ Adj
+Tree may have grew some more! See below.
+Two Child: 690 1421
+Two Child: 362 690
+Two Child: 492 362
+One Child: 492
+One Child: 362
+
+Three Child: 1383 915 690
+One Child: 1383
+One Child: 915
+One Child: 690
+
+
+Two Child: 1386 1421
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Three Child: 2000 886 1421
+One Child: 2000
+One Child: 886
+One Child: 1421
+
+
+
+
+Tree is growing. Adding a 59 to the tree.
+Expand
+ Adj
+Tree may have grew some more! See below.
+Two Child: 690 1421
+Two Child: 59 690
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Three Child: 1383 915 690
+One Child: 1383
+One Child: 915
+One Child: 690
+
+
+Two Child: 1386 1421
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Three Child: 2000 886 1421
+One Child: 2000
+One Child: 886
+One Child: 1421
+
+
+
+
+Tree is growing. Adding a 1926 to the tree.
+Expand
+Expand
+ Adj
+Tree may have grew some more! See below.
+Two Child: 690 886
+Two Child: 59 690
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Three Child: 1383 915 690
+One Child: 1383
+One Child: 915
+One Child: 690
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is growing. Adding a 540 to the tree.
+Expand
+Expand
+ Adj
+Tree may have grew some more! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 1383 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 886 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 915 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 1793 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 1386 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 492 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 1926 886
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+Two Child: 1421 1926
+One Child: 1421
+One Child: 1926
+
+Two Child: 2000 886
+One Child: 2000
+One Child: 886
+
+
+
+
+Tree is dying. Deleting a 1421 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 362 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 690 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 59 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 1926 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 540 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 1383 from the tree.
+Tree may have died a bit! See below.
+Two Child: 915 886
+Three Child: 59 540 915
+Three Child: 492 362 59
+One Child: 492
+One Child: 362
+One Child: 59
+
+Two Child: 690 540
+One Child: 690
+One Child: 540
+
+Two Child: 1383 915
+One Child: 1383
+One Child: 915
+
+
+Three Child: 1386 -1 -1
+Two Child: 1793 1386
+One Child: 1793
+One Child: 1386
+
+One Child: -1
+Three Child: 2000 886 -1
+One Child: 2000
+One Child: 886
+One Child: -1
+
+
+
+
+Tree is dying. Deleting a 777 from the tree.
